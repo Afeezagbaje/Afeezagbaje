@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Afeez Agbaje</h1>
 <h3 align="center">Measuring programming progress by lines of code is like measuring aircraft building progress by weight. With every line of code, I strive to make it scalable codes.</h3>
 
-- 👨‍💻 All of my projects are available at [afeezagbaje.netlify.app](afeezagbaje.netlify.app)
+- 👨‍💻 All of my projects are available at [afeezagbaje.netlify.app](https://afeezagbaje.netlify.app)
 
 - 💬 Ask me about **React, React Native, Redux, Django, Python, Javascript, Typescript, Next.js, Node.js, Express.**
 
-- 📫 How to reach me **afeezagbaje@gmail**
+- 📫 How to reach me **afeezagbaje@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
